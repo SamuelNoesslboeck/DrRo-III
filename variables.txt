@@ -1,0 +1,7 @@
+"paper_size" = 600mm
+"cb_roll_d_outer" = 80mm
+"cb_roll_d_inner" = 78mm
+"helper_d" = 84mm
+"outer_d" = 100mm
+"spring_l_max" = 30mm
+"spring_l_min" = 15mm
