@@ -1,7 +1,11 @@
 "paper_size" = 600mm
 "cb_roll_d_outer" = 80mm
 "cb_roll_d_inner" = 78mm
-"helper_d" = 84mm
-"outer_d" = 100mm
-"spring_l_max" = 30mm
-"spring_l_min" = 15mm
+"attached_len" = 70mm
+"helper_d" = 86mm
+"outer_d" = 106mm
+"spring_l_max" = 25mm
+"spring_l_min" = 10mm
+"cone_d_larger" = 40mm
+"cone_angle" = 60deg
+"bottom_screw_ring_d" = 86mm
