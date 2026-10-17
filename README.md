@@ -1,4 +1,8 @@
-# DrRo - III
+<p align="center">
+    <img src="./design/drro-iii_logo_and_text.png" width="100%" />
+</p>
+
+---------------------------
 
 <p align="center">
     <img src="./documentation/images/2026_06__01__top_view.jpeg" width="80%" />
